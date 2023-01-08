@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MarkoPekas
-- 👀 I’m interested in Web Apps <- they are the future
-- 🌱 I’m currently learning everything I can from anyone I can
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me, by email, pekasmarko@gmail.com
+### Hi there! 🙋‍♂️
+I'm Marko Pekas, a front end developer 💻 and AI enthusiast 🤖. I love creating intuitive and visually stunning web experiences 🌟.
 
-<!---
-MarkoPekas/MarkoPekas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+When I'm not coding, you can find me staying up-to-date on the latest developments in the world of AI, especially at **OpenAI** 🤯.
+
+I'm always looking to improve my skills and grow as a developer 🚀, and I'm excited to be a part of the amazing GitHub community 💙.
