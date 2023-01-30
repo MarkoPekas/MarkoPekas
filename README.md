@@ -6,5 +6,5 @@ When I'm not coding, you can find me staying up-to-date on the latest developmen
 I'm always looking to improve my skills and grow as a developer 🚀, and I'm excited to be a part of the amazing GitHub community 💙.
 
 latest projects:
-(aiphotoof.me)[https://www.aiphotoof.me]
-(animeworkoutapp)[https://animeworkoutprogram.com]
+[aiphotoof.me](https://www.aiphotoof.me)
+[animeworkoutapp](https://animeworkoutprogram.com)
